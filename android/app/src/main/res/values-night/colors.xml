@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Modo oscuro: marrón muy oscuro en vez de crema, con el mismo tono que
+         la superficie oscura de la app para que no haya un destello blanco al
+         abrir en la noche. -->
+    <color name="splash_background">#1A120C</color>
+</resources>

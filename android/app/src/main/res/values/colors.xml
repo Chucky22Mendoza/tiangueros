@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Fondo del splash y del icono adaptativo en modo claro.
+         Es el crema de TianguisPalette.crema: el mismo del logo, para que el
+         recorte redondeado del icono no se note. -->
+    <color name="splash_background">#FFF8E7</color>
+</resources>
